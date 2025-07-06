@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 18e674d337a450d4d959c966aad39bb4
+  productGUID: 0c1f14366041d164c84220f72cb55d92
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -833,10 +833,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 79e984d9-64af-4a2e-bc70-4d093eb5a2fc
+  cloudProjectId: 95261e2a-a48c-49d7-a780-d90ae6bf9c32
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: git_and_assets_castle_02.07.25
+  projectName: git_and_assets_castle_02.07.25 2025-07-05_11-59-56
   organizationId: tumbleweed103
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
