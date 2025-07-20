@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 18e674d337a450d4d959c966aad39bb4
+  productGUID: 72ca7e51f2aa991488d4c2b26aec182c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: git_and_assets_castle_02.07.25
+  productName: OTUS-Unity-Basic
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -757,14 +757,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: git_and_assets_castle_02.07.25
+  metroPackageName: OTUS-Unity-Basic
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: git_and_assets_castle_02.07.25
+  metroApplicationDescription: OTUS-Unity-Basic
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -833,10 +833,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 79e984d9-64af-4a2e-bc70-4d093eb5a2fc
+  cloudProjectId: 85e818bc-85e3-495e-8e39-e0775ba03e31
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: git_and_assets_castle_02.07.25
+  projectName: OTUS-Unity-Basic
   organizationId: tumbleweed103
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
